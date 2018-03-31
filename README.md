@@ -1,5 +1,5 @@
 # Python-RaspberryPi
-Simple Python Script with Raspberry Pi - Video Demo in repo
+Simple Python Script with Raspberry Pi - Video Demo in repo (May have to download the video to see it)
 
 This was a simple project for me to practice python and working with Raspberry Pi.
 One of the most challenging parts was the logic for the button to have the light alternate between green and red based on pressing it. 
